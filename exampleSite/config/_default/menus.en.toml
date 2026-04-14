@@ -13,9 +13,9 @@ weight = 2
 
 
 [[main]]
-name = "Blog"
+name = "Pages"
 url = "blog/"
-weight = 3
+weight = 4
 
 [[main]]
 weight = 4
